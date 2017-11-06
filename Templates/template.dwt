@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="tooplate_body_wrapper">
+<div id="tooplate_wrapper">
+	<div id="tooplate_top_bar">
+    	<a class="social_btn twitter">&nbsp;</a>
+        <a class="social_btn facebook">&nbsp;</a>
+    </div>	
+    
+    <div id="tooplate_header">
+        <div id="site_title"><h1><a href="#">Iron Rush</a></h1></div>
+        <div id="tooplate_menu">
+            <ul>
+                <li><a href="index.html" class="current">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="gallery.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>    	
+        </div> <!-- end of tooplate_menu -->
+    </div> <!-- end of forever header -->
+    
+    <div id="tooplate_middle">
+    	<div id="slider">
+           
+        </div>	
+	</div> <!-- end of middle -->
+    
+    <div id="tooplate_main">
+    
+    	<div class="col_allw300">
+        	
+        </div>
+        
+        <div class="col_allw300">
+        	
+        </div>
+        
+	<div class="col_allw300 col_last">
+       
+        </div>
+
+        </div>
+        
+        <div class="cleaner"></div>
+    </div> <!-- end of main -->
+
+	<div class="cleaner"></div>
+</div> <!-- end of forever wrapper -->
+</div> <!-- end of forever body wrapper -->
+
+<div id="tooplate_footer_wrapper">
+	<div id="tooplate_footer">
+    	<div class="col_w200 float_l">
+        	<h4>Pages</h4>
+            <ul class="tooplate_list">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Service</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </div>
+    	<div class="col_w200 float_l">
+        	<h4>Cool Link</h4>
+            <ul class="tooplate_list">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Service</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </div>
+        <div class="col_w200 float_r col_last">
+        	<h4>Contact Us</h4>
+            Jln. Ring Road Utara, Sleman <br />
+            Yogyakarta<br />
+            Email: <a href="mailto:choirulsubwofer12@gmail.com">choirulsubwofer12@gmail.com</a>
+        </div>
+        
+        <div class="cleaner"></div>
+    </div>
+</div>
+
+<div id="tooplate_copyright_wrapper">
+	<div id="tooplate_copyright">
+	
+    	Copyright © 2017 <a href="#">Choirul Anwar</a>
+		
+    </div>
+</div>
+</body>
+</html>
